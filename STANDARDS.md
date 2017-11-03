@@ -15,7 +15,7 @@ Standards
 ## We also strive to follow the following additional principles
 * [12-factor app](https://12factor.net/)
 * [GDS Service Standard](https://www.gov.uk/service-manual/service-standard)
-* [Peer Review](PEER_REVIEW.md)
+* [Peer Review](standards/PEER_REVIEW.md)
 * [Testing](standards/TESTING.md)
 * [Support](standards/SUPPORT.md)
 * [Logging](standards/LOGGING.md)
