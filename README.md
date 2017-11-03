@@ -6,7 +6,7 @@ interest, best practices and continue to improve the experience of engineers at 
 
 ### Guides
 
-* [Standards](STANDARDS.md)
+* [Standards](standards/README.md)
 
 ### Licence
 
