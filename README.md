@@ -1,15 +1,16 @@
-Software Engineer Community
-===========================
+# Software Engineer Community
 
 The software engineer community at ONS meets regularly to discuss areas of shared
 interest, best practices and continue to improve the experience of engineers at ONS.
 
-### Guides
+
+## Guides
 
 * [Standards](standards/README.md)
-* [Cloud Foundry](cloud-foundry/README.md)
+* [Cloud Foundry](cloud-foundry/README.md) - Getting started, and curated list of documentation
 
-### Licence
+
+## Licence
 
 Copyright ©‎ 2017, Office for National Statistics (https://www.ons.gov.uk)
 
