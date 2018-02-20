@@ -7,6 +7,7 @@ interest, best practices and continue to improve the experience of engineers at 
 ### Guides
 
 * [Standards](standards/README.md)
+* [Cloud Foundry](cloud-foundry/README.md)
 
 ### Licence
 
