@@ -1,7 +1,7 @@
 # Creating a Pull Request (PR)
 Once you have pushed a branch to GitHub you need to create a Pull Request in order for it to be reviewed and merged to master.
 
-##### Definition
+#### Definition
 A code complete set of changes that in isolation can be merged into master without making it unstable or breaking other services.
 
 * Reviewing open pull requests is more important than opening more pull requests
@@ -10,7 +10,7 @@ A code complete set of changes that in isolation can be merged into master witho
 * Automating styling checks is faster than manually style checking
 
 
-##### The author should make it as easy as possible for a reviewer. They should:
+#### The author should make it as easy as possible for a reviewer. They should:
 
 * Add context
   - Why was the change made
@@ -25,7 +25,7 @@ A code complete set of changes that in isolation can be merged into master witho
 
 See https://github.com/ONSdigital/eq-survey-runner/pull/431 for an example of a good PR description.
 
-##### Peer review requirements
+#### Peer review requirements
 * Changes can be merged into master without making it unstable
 * Changes can be merged into master isolation without breaking other services
 * Feature flags to disable changes that are not ready
@@ -37,7 +37,7 @@ See https://github.com/ONSdigital/eq-survey-runner/pull/431 for an example of a 
 * No linting issues
 * Github integration checks pass
 
-##### Considerations
+#### Considerations
 * Avoid force pushing to a public branch (e.g. a pull request) while it's being worked on.
 * It is ok to use the GitHub.com "Update" button whenever you like
 * Code review comments should be logged against the PR in GitHub (rather than Slack).
@@ -46,7 +46,7 @@ See https://github.com/ONSdigital/eq-survey-runner/pull/431 for an example of a 
 * Agreement must be met over comments for a PR to be merged.
 * Involve a third party if agreement cannot be met.
 
-##### When a PR is finished and ready for merging:
+#### When a PR is finished and ready for merging:
 
 1. [Squash superfluous commits](squashing_commits.md) (wip, update after peer review etc)
 1. If there are conflicts between master and your branch rebase master otherwise merge via the Github merge button (default option)

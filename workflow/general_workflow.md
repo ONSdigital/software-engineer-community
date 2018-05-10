@@ -1,6 +1,6 @@
 # Workflow
 
-##### Table of Contents
+#### Table of Contents
 1. [Starting a Story](stories.md)
 1. [Commit Messages](commit_messages.md)
 1. [Updating Continuous Integration](continuous_integration.md)
