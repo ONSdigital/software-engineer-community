@@ -1,0 +1,31 @@
+# Commit Messages
+Commit messages should be descriptive and a short sentence as a verb. Verbose descriptions should be on subsequent lines (i.e. like an e-mail subject and body) - note you can't use "-m" for multi-line commit messages.
+
+##### Writing good commit messages
+
+* Separate subject from body with a blank line
+* Limit the subject line to 50 characters
+* Capitalize the subject line
+* Do not end the subject line with a period
+* Use the imperative mood in the subject line
+* Wrap the body at 72 characters
+* Use the body to explain what and why vs. how
+* Link to issue tracker
+
+
+###### Blogs and Examples
+
+http://chris.beams.io/posts/git-commit
+https://github.com/ONSdigital/eq-survey-runner/commit/71a164749e7b9db6089bd7ec608305bb6d667b1d
+https://github.com/ONSdigital/eq-survey-runner/commit/660c9f14352e4f9b4f5eb9cfdab212a14996f77b
+
+##### Pushing to GitHub
+
+Before pushing to GitHub for the first time (making it public); consider rebasing your branch to master to pick up the latest changes and resolve any conflicts. 
+
+```bash
+git checkout eq-123-signon
+git pull --rebase origin master
+git push origin eq-123-sign-on
+
+```
