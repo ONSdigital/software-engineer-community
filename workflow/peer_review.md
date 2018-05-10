@@ -1,7 +1,7 @@
-#Creating a Pull Request (PR)
+# Creating a Pull Request (PR)
 Once you have pushed a branch to GitHub you need to create a Pull Request in order for it to be reviewed and merged to master.
 
-## Definition
+##### Definition
 A code complete set of changes that in isolation can be merged into master without making it unstable or breaking other services.
 
 * Reviewing open pull requests is more important than opening more pull requests
