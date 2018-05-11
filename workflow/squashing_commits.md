@@ -59,13 +59,13 @@ Save this and allow git to perform the rebase, it will then prompt you to select
 # This is a combination of 3 commits.
 # The first commit's message is:
 Correcting spelling mistake
- 
+
 # This is the 2nd commit message:
 Adding new unit test
- 
+
 # This is the 3rd commit message:
 DIGEQ-7 review questionnaire functionality
- 
+
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 # rebase in progress; onto 520a0cf
@@ -97,7 +97,7 @@ The history should now be
 commit 05cbee3b8c6d6909f35f0cdcd7b1dc44add5bb86
 Author: Warren <warren@methodsdigital.co.uk>
 Date:   Wed Sep 30 10:37:08 2015 +0100
- 
+
     DIGEQ-7 review questionnaire functionality
 
 commit 26823ee53df97b511ef7e9e728112b90086b4508
@@ -105,7 +105,7 @@ Merge: f017d12 338bd77
 Author: Dan Hilton <daniel.hilton@gmail.com>
 Date:   Tue Sep 29 22:21:52 2015 +0100
     Merge pull request #23 from ONSdigital/digeq-8-make-questionnaire-live
-     
+
     Publish a questionnaire
 
 ```

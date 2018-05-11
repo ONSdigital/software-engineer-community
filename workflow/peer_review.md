@@ -2,7 +2,7 @@
 Once you have pushed a branch to GitHub you need to create a Pull Request in order for it to be reviewed and merged to master.
 
 #### Definition
-A code complete set of changes that in isolation can be merged into master without making it unstable or breaking other services.
+A code complete set of changes that **in isolation can be merged into master without making it unstable or breaking other services**.
 
 * Reviewing open pull requests is more important than opening more pull requests
 * More small pull requests are better than fewer large pull requests
