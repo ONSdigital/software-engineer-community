@@ -39,7 +39,7 @@ See https://github.com/ONSdigital/eq-survey-runner/pull/431 for an example of a 
 
 #### Considerations
 * Avoid force pushing to a public branch (e.g. a pull request) while it's being worked on.
-* It is ok to use the GitHub.com "Update" button whenever you like
+* Frequently merge changes from master into your branch
 * Code review comments should be logged against the PR in GitHub (rather than Slack).
 * Any agreed changes (even if discussed in person) should be logged against the PR so anyone can see why changes are being made.
 * Code reviews are an open forum, all comments are for discussion.
