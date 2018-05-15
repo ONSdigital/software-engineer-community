@@ -14,9 +14,9 @@ Commit messages should be descriptive and a short sentence as a verb. Verbose de
 
 ##### Blogs and Examples
 
-http://chris.beams.io/posts/git-commit
-https://github.com/ONSdigital/eq-survey-runner/commit/71a164749e7b9db6089bd7ec608305bb6d667b1d
-https://github.com/ONSdigital/eq-survey-runner/commit/660c9f14352e4f9b4f5eb9cfdab212a14996f77b
+* http://chris.beams.io/posts/git-commit
+* https://github.com/ONSdigital/eq-survey-runner/commit/71a164749e7b9db6089bd7ec608305bb6d667b1d
+* https://github.com/ONSdigital/eq-survey-runner/commit/660c9f14352e4f9b4f5eb9cfdab212a14996f77b
 
 ##### What's in a commit
 
