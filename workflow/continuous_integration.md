@@ -22,12 +22,12 @@ It is important to remember how code changes could affect the continuous integra
 Any CI changes should be made as early as possible, ideally before raising a pull request.
 
 #### Examples of CI changes that could be made independently before merging any code changes are:
- 
+
 * Adding/Changing environmental variables
 * Adding a new service
 * Adding a new Cloudfoundry service
 * Changing the versions of the build tools used
-* A github repository is renamed
+* A Git repository is renamed
 
 #### Examples of CI changes which may need to be updated after merges are:
 

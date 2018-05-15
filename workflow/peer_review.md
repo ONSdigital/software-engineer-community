@@ -16,7 +16,7 @@ A code complete set of changes that **in isolation can be merged into master wit
   - Why was the change made
   - What was changed
   - Link to relevant or related PRs
-  - Link to issue trackers or other documentation e.g. Trello, Github issues, Confluence
+  - Link to issue trackers or other documentation e.g. Trello, Github issues, GitLab issues, Confluence
 * Explain how to review the changes
   - Steps to run tests
   - Steps to replicate or see changes
@@ -40,7 +40,7 @@ See https://github.com/ONSdigital/eq-survey-runner/pull/431 for an example of a 
 #### Considerations
 * Avoid force pushing to a public branch (e.g. a pull request) while it's being worked on.
 * Frequently merge changes from master into your branch
-* Code review comments should be logged against the PR in GitHub (rather than Slack).
+* Code review comments should be logged against the PR in GitHub or GitLab (rather than Slack).
 * Any agreed changes (even if discussed in person) should be logged against the PR so anyone can see why changes are being made.
 * Code reviews are an open forum, all comments are for discussion.
 * Agreement must be met over comments for a PR to be merged.
