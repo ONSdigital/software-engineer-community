@@ -8,7 +8,7 @@ interest, best practices and continue to improve the experience of engineers at 
 
 * [Standards](standards/README.md)
 * [Cloud Foundry](cloud-foundry/README.md) - Getting started, and curated list of documentation
-
+* [Workflow](workflow/README.md)
 
 ## Licence
 
