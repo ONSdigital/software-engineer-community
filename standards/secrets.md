@@ -12,3 +12,9 @@ Before committing to a repository, careful attention should be made to prevent a
 * Private key
 * URI containing user credentials
 * IP address
+
+#### Loading secrets
+Secrets may need to be loaded for an application to start and/or talk to other applications. These secrets could be loaded by one of the following:
+
+* Environment Variables (suggested by [12 factor](https://12factor.net/config))
+* Tools for managing secrets, e.g. Vault
