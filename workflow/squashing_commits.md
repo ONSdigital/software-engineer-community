@@ -110,7 +110,7 @@ Date:   Tue Sep 29 22:21:52 2015 +0100
 
 ```
 
-If you have already pushed up your commits and by squashing them you will be rewritten the history on the remote you will need to force push your changes. When force pushing changes you should **triple check** and then check again as you will potentially overwrite other peoples changes. This should almost never be done on master.
+If you have already pushed up your commits and by squashing them you will be rewritten the history on the remote you will need to force push your changes. When force pushing changes you should **triple check** and then check again as you will potentially overwrite other peoples changes. *This should almost never be done on master.*
 
 ```bash
 git push origin <branch> -f
