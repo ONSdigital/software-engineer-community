@@ -1,5 +1,7 @@
 # Squashing commits 
 
+Squashing commits leaves the git history in a good state with informative commit messages rather than superfluous comments.
+
 ```bash
 git fetch origin master && git rebase -i origin/master
 ```

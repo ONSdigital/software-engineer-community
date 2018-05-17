@@ -1,7 +1,8 @@
 # Commit Messages
-Commit messages should be descriptive and a short sentence as a verb. Verbose descriptions should be on subsequent lines (i.e. like an e-mail subject and body) - note you can't use "-m" for multi-line commit messages.
 
-#### Writing good commit messages
+## Writing good commit messages
+Commit messages should be descriptive and a short sentence as a verb. Verbose descriptions should be on subsequent lines (i.e. like an e-mail subject and body).
+Good commit messages allow developers to not only understand what has change historically (evident by the code changes) but the rationale should be described in the commit.
 
 * Separate subject from body with a blank line
 * Limit the subject line to 50 characters
@@ -12,13 +13,13 @@ Commit messages should be descriptive and a short sentence as a verb. Verbose de
 * Use the body to explain what and why vs. how
 * Link to issue tracker
 
-##### Blogs and Examples
+## Blogs and examples
 
 * http://chris.beams.io/posts/git-commit
 * https://github.com/ONSdigital/eq-survey-runner/commit/71a164749e7b9db6089bd7ec608305bb6d667b1d
 * https://github.com/ONSdigital/eq-survey-runner/commit/660c9f14352e4f9b4f5eb9cfdab212a14996f77b
 
-##### What's in a commit
+## What's in a commit
 
 * The commit should contain changes that are described in the commit message
 * If changes are not described in a commit message it could probably be in another commit
@@ -26,7 +27,7 @@ Commit messages should be descriptive and a short sentence as a verb. Verbose de
 * Changes should pass unit tests
 * Changes should pass linting
 
-#### Pushing to GitHub
+## Pushing to GitHub
 
 Before pushing to GitHub for the first time (making it public); consider rebasing your branch to master to pick up the latest changes and resolve any conflicts.
 
