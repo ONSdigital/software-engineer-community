@@ -1,8 +1,8 @@
 # Commit Messages
 
 ## Writing good commit messages
-Commit messages should be descriptive and a short sentence as a verb. Verbose descriptions should be on subsequent lines (i.e. like an e-mail subject and body).
-Good commit messages allow developers to not only understand what has change historically (evident by the code changes) but the rationale should be described in the commit.
+Use the imperative mood in the subject line. Verbose descriptions should be on subsequent lines (i.e. like an e-mail subject and body).
+Good commit messages describe what has changed and the rationale behind those changes.
 
 * Separate subject from body with a blank line
 * Limit the subject line to 50 characters

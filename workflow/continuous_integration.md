@@ -10,11 +10,11 @@ When CI fails it should be classed as a high priority to fix and make it stable 
 ## Actions
 
 1. Make the team aware of failure e.g. stand-ups, Slack, dashboard, shouting
-1. Re-run tests check if it's a flaky test (if it is flaky schedule time to fix it)
+1. Re-run tests to check if it's a flaky test (if it is flaky schedule time to fix it)
 1. Triage the issue to get an understanding of why it's failing
 1. Consider backing out the changes if the fix will take a long time
 1. Write tests to catch the failures earlier in the process
-1. Fix code changes and raise a pull request
+1. Fix issues and raise a pull request
 
 ## Before raising a Pull Request
 It is important to remember how code changes could affect continuous integration.
