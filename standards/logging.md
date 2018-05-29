@@ -45,4 +45,4 @@ It may be worth considering logging out the hostname (as `host`) on startup if t
 
 Some thought should be given to what details are relevant for your log message. Some metadata about the transaction may be useful for logging, but should avoid logging large json documents or unnecessary data.
 
-**Survey response data, personal details, and passwords should never be logged**
+**Survey response data, personal details, enrolment codes and passwords should never be logged**
