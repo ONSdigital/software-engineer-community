@@ -55,7 +55,7 @@ All ONS code repositories in GitHub should be created under the umbrella of the 
 
 - **Protection** - for service repositories the master branch should be protected.
 
-### Organsiation Membership
+### Organisation Membership
 
 Membership of the ONSDigital organisation is administered and actively managed by the **Technical Lead**s.
 
