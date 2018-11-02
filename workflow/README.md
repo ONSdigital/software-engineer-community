@@ -1,8 +1,8 @@
 # Workflow
 
 ## Table of Contents
+1. [Commit Messages](commit_messages.md)
 1. [Creating a Pull Request)](pull_request.md)
-
 
 ## Overview
 These docs give guidance and describe a way of working as software engineers. They are suggested practices rather than the golden rule.
