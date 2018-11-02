@@ -1,123 +1,132 @@
 
-Use of GitHub at ONS
---------------------
+# Use of GitHub at ONS
+
 Aligning with the GDS practice of "Coding In The Open" means that a lot of public repositories end up on our GitHub organisation.
 
-This document defines the agree standards and policies for using GitHub at ONS.
+This document defines the agreed standards and policies for using GitHub at ONS.
+
+- [Responsibility for GitHub Usage at ONS](#responsibility-for-github-usage-at-ons)
+- [Policies](#policies)
 
 ## Responsibility for GitHub Usage at ONS
 
 ### Overall Responsibility
+
 The Head of Technology Development assumes responsibility for the policies on using GitHub at ONS.
 
-Ultimately the Head of Technology has the final say on how teams with Digital Services & Technology (DST) at ONS utilise GitHub but will take advice from the Technical Leads Community of Practice. The caveat is Digital Publishing as they don't fall under the DST umbrella and tehrefore could not be mandated to work in a partricualr way. As such DP will have input into and will aim to comply to theese standards but they cannot be manadted by DST.
+Ultimately the Head of Technology has the final say on how teams with Digital Services & Technology (DST) at ONS utilise GitHub but will take advice from the **Technical Lead**s _Community of practice_. The caveat is Digital Publishing as they don't fall under the DST umbrella and therefore could not be mandated to work in a partricular way. As such DP will have input into and will aim to comply to theese standards but they cannot be manadted by DST.
 
-#### Operational Responsibility
-Day-to-day responsibility for managing the use of GitHub and defining and governing its use lies with the Technical Leads.
+### Operational Responsibility
 
-The Technical Lead Community of Practice will nominate one of its members to represent them but decisions will be made via community consensus.
+- Day-to-day responsibility for managing the use of GitHub and defining and governing its use lies with the **Technical Lead**s.
 
-If the community cannot agree then the Head of Technology Development has the casting vote on any decision.
+- The **Technical Lead** _Community of practice_ will nominate one of its members to represent them but decisions will be made via community consensus.
 
-Information Assurance
-The Information Assurance Community of Practice will nominate one of its members to risk assess the use of GitHub at ONS and approve this policy.
+- If the community cannot agree then the Head of Technology Development has the casting vote on any decision.
 
-#### Named Representatives
+- The **Information Assurance** _Community of practice_ will nominate one of its members to risk assess the use of GitHub at ONS and approve this policy.
 
-| Name | Role |
-| Julie Caldwell| Head of Technology Development (DST)|
-| Ian Kent | Digital Publishing |
+### Named Representatives
 
+- **Julie Caldwell** - Head of Technology Development (DST)
+- **Ian Kent** - Technical Lead on Digital Publishing
 
-# Policies
-### All code should reside under the ONSDigital organisation
-All code repositories in GitHub should be created under the umbrella of the ONSDigital organisation.
+---
 
-The administrators of the organisation are the Technical Leads.
+## Policies
 
-The Technical Leads will grant and revoke membership of the organisation.
+- [Code Repositories](#code-repositories)
+- [Organisation Membership](#organisation-membership)
+  - [Managing movers/leavers/joiners](#managing-moversleaversjoiners)
+- [Github Accounts](#github-accounts)
+  - [Two-factor authentication](#two-factor-authentication)
+- [Signed Commits](#signed-commits)
+- [Webhooks into ONS](#webhooks-into-ons)
+- [Assume everything is public](#assume-everything-is-public)
+- [External contributors](#external-contributors)
 
-### Membership of the ONSDigital organisation must be actively managed
-All Tech Leads are Administrators of ONSDigital
-Managing teams within the ONS GitHub organisation
-Teams should be created aligning with the product teams at ONS.
+### Code Repositories
 
-Each Technical Lead is responsible for managing her or her team(s).
+All ONS code repositories in GitHub should be created under the umbrella of the ONSDigital organisation.
+
+- **Administration** - the administrators of the organisation are the **Technical Lead**s.
+
+- **Repository creation** - anyone in the ONSDigital organisation can create a repository.
+
+- **Protection** - for service repositories the master branch should be protected.
+
+### Organsiation Membership
+
+Membership of the ONSDigital organisation is administered and actively managed by the **Technical Lead**s.
+
+- **Administrators** - all **Technical Lead**s are administrators of ONSDigital.
+
+- **Team management** - each **Technical Lead** is responsible for managing their team(s).
+
+- **Team organisation** - teams should be created aligning with the product teams at ONS.
 
 #### Managing movers/leavers/joiners
-If an individual leaves ONS then the Technical Lead should also remove them from the ONSDigital organisation.
 
-GitHub audits joiners and leavers
+If an individual leaves ONS then the **Technical Lead** should also remove them from the ONSDigital organisation.
 
-### GitHub accounts must be traceable to an individual
+- **Audit** - GitHub audits joiners and leavers via the audit log.
+
+### GitHub accounts
+
 All accounts should be easily identifiable to their owners.
 
-GitHub Profile
-It is mandated that individuals should populate their GitHub account profile with their real forename and surname.
+- **GitHub Profile** - all individuals should populate their GitHub account profile with their real forename and surname.
 
-The GitHub username must not be offensive or anything deemed inappropriate by the Technical Lead of the individual.
+- **Username** - must not be offensive or anything deemed inappropriate by the **Technical Lead**s.
 
-Personal Accounts
-It is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference.
+- **Personal Accounts** - it is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference. However only one account per individual should be registered to the ONSDigital organisation.
 
-However only one account per individual should be registered to the ONSDigital organisation.
+#### Two-factor authentication
 
-### Any member of the ONSDigital organisation can create a repository
-Anyone in the organisation can create a repository.
+- **Administrators must enable TFA** - a condition of being granted administration right on the organization is to have two-factor authentication enabled. Therefore it follows that all **Technical Lead**s must enable TFA on their accounts.
 
-### For service repositories the master branch should be protected.
+- **Members should enable TFA** -  it is strongly encouraged that all users have two-factor authentication enabled on their accounts. Reasonable reasons for not having it enabled are required.
 
-### Administrators of the ONSDigital organisation must have two-factor authentication enabled
-A condition of being granted administration right on the organization is to have two-factor authentication enabled.
+- **Service Accounts don't need to enable TFA** - service accounts used by continuous integration solutions do not require two-factor authentication. Service accounts should have the minimal permissions required to complete the required task (_principal of least required priviledge_)
 
-As they are administrators all Technical Leads must have two-factor authentication enabled on their accounts.
+### Signed commits
 
-Organisation Members
-It is strongly encouraged that all users have two-factor authentication enabled on their accounts. Reasonable reasons for not having it enabled are required.
-
-Service Accounts
-Service accounts used by continuous integration solutions do not require two-factor authentication.
-
-Service accounts should have the minimal permissions required to complete the required task.
-
-### Signed commits are encouraged
 GitHub supports signed commits so other people can verify that your work comes from a trusted source. If a commit or tag has a GPG or S/MIME signature that is cryptographically verifiable, GitHub marks the commit or tag as verified.
 
 Digital publishing validate the GPG key used against a list of known keys (managed in a github repo) and refuse to build either unsigned commits or commits signed by a key we don't recognise.
 
-At this stage signed commits are not mandated across ONS.
+- Signed commits are encouraged but not mandated
 
-### Webhooks from GitHub to on-network build systems must be via the CA API Gateway
-Webhooks are used to trigger builds on continuous integration tools such as Jenkins, Concourse or Travis CI.
+### Webhooks into ONS
 
-Triggering off-network builds in the cloud from GiHub is authorised as per standard connectivity.
+Webhooks from GitHub to on-network build systems must be via the CA API Gateway
 
-Triggering on-network builds from GitHub is authorised only via the CA API Gateway.
+- Webhooks are used to trigger builds on continuous integration tools such as Jenkins, Concourse or Travis CI.
 
-All repositories from the ONSDigital organisation should be whitelisted.
+- Triggering off-network builds in the cloud from GiHub is authorised as per standard connectivity.
 
-### Non-ONS contributors to ONS repositories are not currently supported
+- Triggering on-network builds from GitHub is authorised only via the CA API Gateway.
+
+- All repositories from the ONSDigital organisation should be whitelisted.
+
+### External contributors
+
 Currently we do not support changes from outside of members of the ONDigital GitHub organisation.
 
-If we get an unsolicited pull request from outside of the organisation it must not be merged.
+- **Unsolicited pull requests** - if we get an unsolicited pull request from outside of the organisation it must not be merged. It should be raised to the **Technical Lead** _Community of practice_.
 
-If we are to allow outside contributors a policy for accepting changes will need to be developed and agreed.
+- **The future** - we may choose to allow external contrtibutors at a later date, but a policy for accepting changes will need to be developed and agreed.
 
 ### Assume everything is public
-Encrypt anything that may be sensitive
 
-Be mindful of comments and variable names
+It should always be assumed that anything published to Github _is_ or _will be_ public and should be treated as such.
 
-Commit messages should be well formed and not offensive or overly critical
+- **Private is not secret** - private repositories may be used, but you **must not** use them to enforce security by obscurity (see _encyption_ and _anonymisation_). Always assume they may be exposed (intentionally or otherwise) or made public in the future.
 
-Write good pull requests
+- **Limit exposure - encryption** - encrypt anything that may be sensitive (configuration / test data etc)
 
-Remember that the repositories are a public face of ONS
+- **Limit exposure - anonymisation** - never publish real or apparently real data (test data etc shouldn't relate to real companies or individuals)
 
-Ensure test data is anonymised
-Test data shouldn't relate to real companies or individuals
+- **Public perception** - the ONSDigital organsiation is a public face of ONS. Be mindful of comments, pull requests, variable names etc (nothing offensive and never assume implicit knowledge)
 
-
-
-
-
+- **Commit messages and pull requests** - should be well formed and always descriptive. Do not simply put links to / code numbers of stories in internal tracking systems that are unavailable to others.
