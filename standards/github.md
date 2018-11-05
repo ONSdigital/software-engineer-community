@@ -83,11 +83,11 @@ All accounts should be easily identifiable to their owners.
 
 #### Multi-factor authentication
 
-- **Administrators must enable MFA** - a condition of being granted administration right on the organization is to have two-factor authentication enabled. Therefore it follows that all **Technical Lead**s must enable MFA on their accounts.
+- **Administrators must enable MFA** - a condition of being granted administration right on the organization is to have multi-factor authentication enabled. Therefore it follows that all **Technical Lead**s must enable MFA on their accounts.
 
-- **Members should enable MFA** -  it is strongly encouraged that all users have two-factor authentication enabled on their accounts. Reasonable reasons for not having it enabled are required.
+- **Members should enable MFA** -  it is strongly encouraged that all users have multi-factor authentication enabled on their accounts. Reasonable reasons for not having it enabled are required.
 
-- **Service Accounts don't need to enable MFA** - service accounts used by continuous integration solutions do not require two-factor authentication. Service accounts should have the minimal permissions required to complete the required task (_principal of least required priviledge_)
+- **Service Accounts don't need to enable MFA** - service accounts used by continuous integration solutions do not require multi-factor authentication. Service accounts should have the minimal permissions required to complete the required task (_principal of least required priviledge_)
 
 ### Signed commits
 
