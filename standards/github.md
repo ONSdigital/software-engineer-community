@@ -39,7 +39,7 @@ Ultimately the Head of Technology has the final say on how teams with Digital Se
 - [Organisation Membership](#organisation-membership)
   - [Managing movers/leavers/joiners](#managing-moversleaversjoiners)
 - [Github Accounts](#github-accounts)
-  - [Two-factor authentication](#two-factor-authentication)
+  - [Multi-factor authentication](#multi-factor-authentication)
 - [Signed Commits](#signed-commits)
 - [Webhooks into ONS](#webhooks-into-ons)
 - [Assume everything is public](#assume-everything-is-public)
@@ -81,7 +81,7 @@ All accounts should be easily identifiable to their owners.
 
 - **Personal Accounts** - it is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference. However only one account per individual should be registered to the ONSDigital organisation.
 
-#### Two-factor authentication
+#### Multi-factor authentication
 
 - **Administrators must enable MFA** - a condition of being granted administration right on the organization is to have two-factor authentication enabled. Therefore it follows that all **Technical Lead**s must enable MFA on their accounts.
 
