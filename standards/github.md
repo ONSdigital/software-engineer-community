@@ -47,19 +47,19 @@ Ultimately the Head of Technology has the final say on how teams with Digital Se
 
 ### Code Repositories
 
-All ONS code repositories in GitHub should be created under the umbrella of the ONSDigital organisation.
+All ONS code repositories in GitHub should be created under the umbrella of the ONSdigital organisation.
 
 - **Administration** - the administrators of the organisation are the **Technical Lead**s.
 
-- **Repository creation** - anyone in the ONSDigital organisation can create a repository.
+- **Repository creation** - anyone in the ONSdigital organisation can create a repository.
 
 - **Protection** - for service repositories the master branch should be protected.
 
 ### Organisation Membership
 
-Membership of the ONSDigital organisation is administered and actively managed by the **Technical Lead**s.
+Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead**s.
 
-- **Administrators** - all **Technical Lead**s are administrators of ONSDigital.
+- **Administrators** - all **Technical Lead**s are administrators of ONSdigital.
 
 - **Team management** - each **Technical Lead** is responsible for managing their team(s).
 
@@ -67,7 +67,7 @@ Membership of the ONSDigital organisation is administered and actively managed b
 
 #### Managing movers/leavers/joiners
 
-If an individual leaves ONS then the **Technical Lead** should also remove them from the ONSDigital organisation.
+If an individual leaves ONS then the **Technical Lead** should also remove them from the ONSdigital organisation.
 
 - **Audit** - GitHub audits joiners and leavers via the audit log.
 
@@ -79,7 +79,7 @@ All accounts should be easily identifiable to their owners.
 
 - **Username** - must not be offensive or anything deemed inappropriate by the **Technical Lead**s.
 
-- **Personal Accounts** - it is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference. However only one account per individual should be registered to the ONSDigital organisation.
+- **Personal Accounts** - it is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference. However only one account per individual should be registered to the ONSdigital organisation.
 
 #### Multi-factor authentication
 
@@ -107,11 +107,11 @@ Webhooks from GitHub to on-network build systems must be via the CA API Gateway
 
 - Triggering on-network builds from GitHub is authorised only via the CA API Gateway.
 
-- All repositories from the ONSDigital organisation should be whitelisted.
+- All repositories from the ONSdigital organisation should be whitelisted.
 
 ### External contributors
 
-Currently we do not support changes from outside of members of the ONDigital GitHub organisation.
+Currently we do not support changes from outside of members of the ONSdigital GitHub organisation.
 
 - **Unsolicited pull requests** - if we get an unsolicited pull request from outside of the organisation it must not be merged. It should be raised to the **Technical Lead** _Community of practice_.
 
@@ -127,6 +127,6 @@ It should always be assumed that anything published to Github _is_ or _will be_ 
 
 - **Limit exposure - anonymisation** - never publish real or apparently real data (test data etc shouldn't relate to real companies or individuals)
 
-- **Public perception** - the ONSDigital organsiation is a public face of ONS. Be mindful of comments, pull requests, variable names etc (nothing offensive and never assume implicit knowledge)
+- **Public perception** - the ONSdigital organsiation is a public face of ONS. Be mindful of comments, pull requests, variable names etc (nothing offensive and never assume implicit knowledge)
 
 - **Commit messages and pull requests** - should be well formed and always descriptive. Do not simply put links to / code numbers of stories in internal tracking systems that are unavailable to others.
