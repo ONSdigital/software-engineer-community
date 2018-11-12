@@ -121,7 +121,7 @@ Currently we do not support changes from outside of members of the ONSdigital Gi
 
 It should always be assumed that anything published to Github _is_ or _will be_ public and should be treated as such.
 
-- **Private is not secret** - private repositories may be used, but you **must not** use them to enforce security by obscurity (see _encyption_ and _anonymisation_). Always assume they may be exposed (intentionally or otherwise) or made public in the future.
+- **Private is not secret** - private repositories may be used, but you **must not** use them to enforce security by obscurity (see _encryption_ and _anonymisation_). Always assume they may be exposed (intentionally or otherwise) or made public in the future.
 
 - **Limit exposure - encryption** - encrypt anything that may be sensitive (configuration / test data etc)
 
