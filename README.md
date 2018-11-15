@@ -9,6 +9,7 @@ interest, best practices and continue to improve the experience of engineers at 
 * [Standards](standards/README.md)
 * [Cloud Foundry](cloud-foundry/README.md) - Getting started, and curated list of documentation
 * [Workflow](workflow/README.md)
+* [Induction](induction/Induction of Software Engineers at ONS.md) - Checklist for induction of new software engineers
 
 ## Licence
 
