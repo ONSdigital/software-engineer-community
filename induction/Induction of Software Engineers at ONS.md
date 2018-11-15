@@ -1,6 +1,6 @@
 # Induction to ONS - A Guide for the Induction of Software Engineers
 
-This document is intended to give software engineer team leads some guidance on how to introduce new software enginners to ONS and all its facilities. This is mainly intended for permanent staff, since it will include reference to subjects such as flexi terminals, but it could also be used for software engineer contractors to a large extent. 
+This document is intended to give software engineer team leads some guidance on how to introduce new software enginneers to ONS and all its facilities. This is mainly intended for permanent staff, since it will include reference to subjects such as flexi terminals, but it could also be used for software engineer contractors to a large extent. 
 
 The sections below list things that would be useful for new starters to be shown/given.
 
