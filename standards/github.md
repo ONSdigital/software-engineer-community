@@ -28,7 +28,7 @@ Ultimately the Head of Technology has the final say on how teams with Digital Se
 
 ### Named Representatives
 
-- **Julie Caldwell** - Head of Technology Development (DST)
+- **John Gregory** - Technical Lead on DST
 - **Ian Kent** - Technical Lead on Digital Publishing
 
 ---
