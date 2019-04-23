@@ -89,7 +89,15 @@ All accounts should be easily identifiable to their owners.
 
 - **Service Accounts don't need to enable MFA** - service accounts used by continuous integration solutions do not require multi-factor authentication. Service accounts should have the minimal permissions required to complete the required task (_principal of least required priviledge_)
 
-### Signed commits
+
+### Repository settings
+
+#### Collaborators
+
+Only teams should be granted access to repositories. This makes it clear why the access is needed and helps to ensure people have correct permissions within team moves.
+
+
+#### Signed commits
 
 GitHub supports signed commits so other people can verify that your work comes from a trusted source. If a commit or tag has a GPG or S/MIME signature that is cryptographically verifiable, GitHub marks the commit or tag as verified.
 
