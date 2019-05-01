@@ -96,6 +96,7 @@ All accounts should be easily identifiable to their owners.
 
 Only teams should be granted access to repositories. This makes it clear why the access is needed and helps to ensure people have correct permissions within team moves.
 
+If there is an explicit need for an individual to be granted access this should be agreed with a tech lead.
 
 #### Signed commits
 
