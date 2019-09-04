@@ -29,7 +29,6 @@ Ultimately the Head of Technology has the final say on how teams with Digital Se
 ### Named Representatives
 
 - **John Gregory** - Technical Lead on DST
-- **Ian Kent** - Technical Lead on Digital Publishing
 
 ---
 
