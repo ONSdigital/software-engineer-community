@@ -91,6 +91,10 @@ All accounts should be easily identifiable to their owners.
 
 ### Repository settings
 
+#### Visibility
+
+Repositories should be created a _public_ by default unless you have a specific need for them to be _internal_ or _private_ (see [Assume everything is public](#assume-everything-is-public)).
+
 #### Collaborators
 
 Only teams should be granted access to repositories. This makes it clear why the access is needed and helps to ensure people have correct permissions within team moves.
