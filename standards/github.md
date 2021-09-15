@@ -103,11 +103,7 @@ If there is an explicit need for an individual to be granted access this should 
 
 #### Signed commits
 
-GitHub supports signed commits so other people can verify that your work comes from a trusted source. If a commit or tag has a GPG or S/MIME signature that is cryptographically verifiable, GitHub marks the commit or tag as verified.
-
-Digital publishing validate the GPG key used against a list of known keys (managed in a github repo) and refuse to build either unsigned commits or commits signed by a key we don't recognise.
-
-- Signed commits are encouraged but not mandated
+- Signed commits are mandated where possible
 
 ### Webhooks into ONS
 
