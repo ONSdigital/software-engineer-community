@@ -10,7 +10,6 @@
 
 ## Starting work on the story
 1. Make the team aware you're working on the story
-1. Make the team aware the story is in progress
 1. Create a branch with a short description of the story, e.g.
    ```bash
    git checkout -b adding-login-page
