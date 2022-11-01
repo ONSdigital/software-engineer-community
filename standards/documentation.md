@@ -10,6 +10,5 @@ Documentation should not contain active usernames or passwords, or infrastructur
 ### These standards have not yet been defined.
 
 Areas for discussion include:
-* licenses - what licenses to use when, how to find the correct license, where they should be in a repo
 * clarity around whether linking to restricted files is ok
-* clarity around code snippets - is some level of snippet ok, they jsut shouldn't contain credentials?
+* clarity around code snippets - is some level of snippet ok, they just shouldn't contain credentials?
