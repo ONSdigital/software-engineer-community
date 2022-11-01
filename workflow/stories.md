@@ -10,6 +10,11 @@
 
 ## Starting work on the story
 1. Make the team aware you're working on the story
+1. Pull from main before creating a branch
+   ```
+   git checkout main
+   git pull
+   ```
 1. Create a branch with a short description of the story, e.g.
    ```bash
    git checkout -b adding-login-page
