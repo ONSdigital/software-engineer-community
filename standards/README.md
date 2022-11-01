@@ -1,5 +1,4 @@
-Standards
-===========================
+# Standards
 
 ## As a software engineering community we believe:
 
@@ -13,6 +12,8 @@ Standards
 * 20% of our time should be devoted to self-development and professional improvement
 
 ## We also strive to follow the following additional principles
+
+* [ONSDigital Github usage policies](github.md)
 * [12-factor app](https://12factor.net/)
 * [GDS Service Standard](https://www.gov.uk/service-manual/service-standard)
 * [Peer Review](peer_review.md)
