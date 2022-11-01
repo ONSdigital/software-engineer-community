@@ -1,7 +1,7 @@
 # Workflow
 
 ## Table of Contents
-
+1. [Refactoring](refactoring.md)
 1. [Commit Messages](commit_messages.md)
 1. [Creating a Pull Request)](pull_request.md)
 1. [Updating Continuous Integration](continuous_integration.md)
