@@ -16,20 +16,15 @@ Ultimately the Head of Software Engineering Practice has the final say on how te
 
 ### Operational Responsibility
 
-- Day-to-day responsibility for managing the use of GitHub and defining and governing its use lies with the **Technical Lead**s.
+- Day-to-day responsibility for managing the use of GitHub and defining and governing its use lies with the **Technical Lead or nominated Sr. team member**s.
 
-- The **Technical Lead** _Community of practice_ will nominate one of its members to represent them but decisions will be made via community consensus.
-
-- If the community cannot agree then the Head of Software Engineering Practice has the casting vote on any decision.
+- The **Technical Lead** _Community of practice_ will nominate atleast one of its members to represent them but any decisions to update this document will be made via community consensus (through Technical Advisory Group)
 
 - The **Security Division** will nominate one of its members to risk assess the use of GitHub at ONS and approve this guidance/standards.
 
-- The **Information Assurance** _Community of practice_ will nominate one of its members to risk assess the use of GitHub at ONS and approve this policy?
-
 ### Named Representatives
 
-- **TBD** - Technical Lead on DST
-
+- **TBD** - Technical Advisory Group 
 ---
 
 ## Policies
