@@ -1,9 +1,7 @@
 
-# Use of GitHub at ONS (Draft status)
+# Use of GitHub at ONS (Draft status) 
 
-Aligning with the GDS practice of "Coding In The Open" means that a lot of public repositories end up on our GitHub organisation.
-
-This document defines the agreed standards and policies for using GitHub at ONS.
+This document defines the agreed GitHub standards in line with ONS Source Control policy (add a link).
 
 - [Responsibility for GitHub Usage at ONS](#responsibility-for-github-usage-at-ons)
 - [Policies](#policies)
