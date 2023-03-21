@@ -14,7 +14,7 @@ This document defines the agreed standards and policies for using GitHub at ONS.
 
 The Head of Software Engineering Practice assumes responsibility for the policies on using GitHub at ONS.
 
-Ultimately the Head of Software Engineering Practice has the final say on how teams with Digital Services & Technology (DST) at ONS utilise GitHub but will take advice from the **Technical Lead**s _Community of practice_. The caveat is Digital Publishing as they don't fall under the DST umbrella and therefore could not be mandated to work in a particular way. As such DP will have input into and will aim to comply to these standards but they cannot be mandated by DST.
+Ultimately the Head of Software Engineering Practice has the final say on how teams with Digital Services & Technology (DST) at ONS utilise GitHub but will take advice from the **Technical Advisory Group or Technical Lead**s _Community of practice_. The caveat is Digital Publishing as they don't fall under the DST umbrella and therefore could not be mandated to work in a particular way As such DP will have input into and will aim to comply to these standards but they cannot be mandated by DST?
 
 ### Operational Responsibility
 
@@ -24,7 +24,9 @@ Ultimately the Head of Software Engineering Practice has the final say on how te
 
 - If the community cannot agree then the Head of Software Engineering Practice has the casting vote on any decision.
 
-- The **Information Assurance** _Community of practice_ will nominate one of its members to risk assess the use of GitHub at ONS and approve this policy.
+- The **Security Division** will nominate one of its members to risk assess the use of GitHub at ONS and approve this guidance/standards.
+
+- The **Information Assurance** _Community of practice_ will nominate one of its members to risk assess the use of GitHub at ONS and approve this policy?
 
 ### Named Representatives
 
