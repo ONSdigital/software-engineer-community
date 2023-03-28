@@ -41,7 +41,7 @@ Ultimately the Head of Software Engineering Practice has the final say on how te
 
 ### Code Repositories
 
-All ONS code repositories in GitHub should be created under the umbrella of the ONSdigital organisation.
+All ONS code repositories in GitHub should be created under the approved ONS gitHub organisation (see Source Control Policy (link).  By default ONSdigital organisation should be used for all new repositories) 
 
 - **Administration** - the administrators of the organisation are the **Technical Lead**s.
 
