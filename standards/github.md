@@ -43,7 +43,7 @@ Ultimately the Head of Software Engineering Practice has the final say on how te
 
 All ONS code repositories in GitHub should be created under the approved ONS gitHub organisation (see Source Control Policy (link).  By default ONSdigital organisation should be used for all new repositories) 
 
-- **Administration** - the administrators of the organisation are the **Technical Lead**s.
+- **Administration** - the administrators of the organisation are the **Technical Lead or nominated Sr. team member**s.
 
 - **Repository creation** - anyone in the ONSdigital organisation can create a repository.
 
@@ -51,7 +51,7 @@ All ONS code repositories in GitHub should be created under the approved ONS git
 
 ### Organisation Membership
 
-Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead**s.
+Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead**s
 
 - **Administrators** - all **Technical Lead**s are administrators of ONSdigital.
 
