@@ -41,7 +41,7 @@ Ultimately the Head of Software Engineering Practice has the final say on how te
 
 ### Code Repositories
 
-All ONS code repositories in GitHub should be created under the approved ONS gitHub organisation (see Source Control Policy (link).  By default ONSdigital organisation should be used for all new repositories) 
+All ONS code repositories in GitHub should be created under the approved ONS gitHub organisations (see Source Control Policy (Add a link link).  By default ONSdigital organisation should be used for all new repositories).
 
 - **Administration** - the administrators of the organisation are the **Technical Lead or nominated Sr. team member**s.
 
@@ -61,12 +61,13 @@ Membership of the ONSdigital organisation is administered and actively managed b
 
 #### Managing movers/leavers/joiners
 
-If an individual leaves ONS then the **Technical Lead or nominated Sr. team member**s should also remove them from the ONSdigital organisation.
+- For a new joiner to the gitHub ONSdigital organisation, the **Technical Lead or nominated Sr. team member**s should raise a ServiceNow ticket (add a link)
+- If an individual leaves ONS then the **Technical Lead or nominated Sr. team member**s should also remove them from the ONSdigital organisation.
 
 - **Audit** - GitHub audits joiners and leavers via the audit log.
 
 ### GitHub accounts
-
+[Jame Blake will share the content to be replace in the section below]
 All accounts should be easily identifiable to their owners.
 
 - **GitHub Profile** - all individuals should populate their GitHub account profile with their real forename and surname.
@@ -83,6 +84,7 @@ All accounts should be easily identifiable to their owners.
 
 - **Service Accounts don't need to enable MFA** - service accounts used by continuous integration solutions do not require multi-factor authentication. Service accounts should have the minimal permissions required to complete the required task (_principal of least required priviledge_)
 
+[Next review session starts from here]
 
 ### Repository settings
 
