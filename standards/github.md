@@ -51,17 +51,17 @@ All ONS code repositories in GitHub should be created under the approved ONS git
 
 ### Organisation Membership
 
-Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead**s
+Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead or nominated Sr. team member**s
 
-- **Administrators** - all **Technical Lead**s are administrators of ONSdigital.
+- **Administrators** - all **Technical Lead or nominated Sr. team member**s are administrators of ONSdigital.
 
-- **Team management** - each **Technical Lead** is responsible for managing their team(s).
+- **Team management** - each **Technical Lead or nominated Sr. team member**s is responsible for managing their team(s).
 
 - **Team organisation** - teams should be created aligning with the product teams at ONS.
 
 #### Managing movers/leavers/joiners
 
-If an individual leaves ONS then the **Technical Lead** should also remove them from the ONSdigital organisation.
+If an individual leaves ONS then the **Technical Lead or nominated Sr. team member**s should also remove them from the ONSdigital organisation.
 
 - **Audit** - GitHub audits joiners and leavers via the audit log.
 
