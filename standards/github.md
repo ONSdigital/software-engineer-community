@@ -61,7 +61,7 @@ Membership of the ONSdigital organisation is administered and actively managed b
 
 #### Managing movers/leavers/joiners
 
-- For a new joiner to the gitHub ONSdigital organisation, the **Technical Lead or nominated Sr. team member**s should raise a ServiceNow ticket (add a link)
+- For a new joiner to the gitHub ONSdigital organisation, the **Technical Lead or nominated Sr. team member**s should raise a [ServiceNow ticket](https://ons.service-now.com/sp?id=sc_cat_item&sys_id=f0b3c9a41b271150b51ea6c7b04bcb8e)
 - If an individual leaves ONS then the **Technical Lead or nominated Sr. team member**s should also remove them from the ONSdigital organisation.
 
 - **Audit** - GitHub audits joiners and leavers via the audit log.
