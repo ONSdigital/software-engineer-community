@@ -90,7 +90,9 @@ All accounts should be easily identifiable to their owners.
 
 #### Visibility
 
-Repositories should be created a _public_ by default unless you have a specific need for them to be _internal_ or _private_ (see [Assume everything is public](#assume-everything-is-public)).
+Repositories should be created a _public_ by default unless you have a specific need for them to be _internal_ or _private_ (see [Assume everything is public](#assume-everything-is-public)). 
+    Note for Fahad (Add link to the Govt information and also mention the top level policy document as well)
+
 
 #### Collaborators
 
@@ -105,11 +107,12 @@ GitHub supports signed commits so other people can verify that your work comes f
 Digital publishing validate the GPG key used against a list of known keys (managed in a github repo) and refuse to build either unsigned commits or commits signed by a key we don't recognise.
 
 - Signed commits are encouraged but not mandated
+- (Note for Fahad why it is encouraged only not mandated (check with community)).
 
 ### Webhooks into ONS
 
-Webhooks from GitHub to on-network build systems must be via the CA API Gateway
-
+Webhooks from GitHub to on-network build systems must be via the CA API Gateway 
+  
 - Webhooks are used to trigger builds on continuous integration tools such as Jenkins, Concourse or Travis CI.
 
 - Triggering off-network builds in the cloud from GiHub is authorised as per standard connectivity.
@@ -118,13 +121,17 @@ Webhooks from GitHub to on-network build systems must be via the CA API Gateway
 
 - All repositories from the ONSdigital organisation should be whitelisted.
 
+   - (Fahad - need to check what is CA API Gateway and where is the whitelisting is done)
+
 ### External contributors
 
 Currently we do not support changes from outside of members of the ONSdigital GitHub organisation.
-
+  
 - **Unsolicited pull requests** - if we get an unsolicited pull request from outside of the organisation it must not be merged. It should be raised to the **Technical Lead** _Community of practice_.
 
 - **The future** - we may choose to allow external contributors at a later date, but a policy for accepting changes will need to be developed and agreed.
+
+** Fahad (need to check why this in place)
 
 ### Assume everything is public
 
