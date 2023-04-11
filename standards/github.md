@@ -84,8 +84,6 @@ All accounts should be easily identifiable to their owners.
 
 - **Service Accounts don't need to enable MFA** - service accounts used by continuous integration solutions do not require multi-factor authentication. Service accounts should have the minimal permissions required to complete the required task (_principal of least required priviledge_)
 
-[Next review session starts from here]
-
 ### Repository settings
 
 #### Visibility
