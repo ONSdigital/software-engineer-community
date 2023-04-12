@@ -12,23 +12,17 @@ This document defines the agreed standards and policies for using GitHub at ONS.
 
 ### Overall Responsibility
 
-The Head of Technology Development assumes responsibility for the policies on using GitHub at ONS.
+The Head of Software Engineering Practices assumes responsibility for the policies on using GitHub at ONS.
 
-Ultimately the Head of Technology has the final say on how teams with Digital Services & Technology (DST) at ONS utilise GitHub but will take advice from the **Technical Lead**s _Community of practice_. The caveat is Digital Publishing as they don't fall under the DST umbrella and therefore could not be mandated to work in a particular way. As such DP will have input into and will aim to comply to these standards but they cannot be mandated by DST.
+Ultimately the Head of Software Engineering Practices has the final say on how teams with Digital Services & Technology (DST) at ONS utilise GitHub but will take advice from the **Technical Leads and _Community of practice_**. The caveat is Digital Publishing as they don't fall under the DST umbrella and therefore could not be mandated to work in a particular way. As such DP will have input into and will aim to comply to these standards but they cannot be mandated by DST.
 
 ### Operational Responsibility
 
-- Day-to-day responsibility for managing the use of GitHub and defining and governing its use lies with the **Technical Lead**s.
+- Day-to-day responsibility for managing the use of GitHub and defining and governing its use lies with the **Technical Lead or nominated Sr. team members**.
 
-- The **Technical Lead** _Community of practice_ will nominate one of its members to represent them but decisions will be made via community consensus.
-
-- If the community cannot agree then the Head of Technology Development has the casting vote on any decision.
+- If the community cannot agree then the Head of Software Practices has the casting vote on any decision.
 
 - The **Information Assurance** _Community of practice_ will nominate one of its members to risk assess the use of GitHub at ONS and approve this policy.
-
-### Named Representatives
-
-- **John Gregory** - Technical Lead on DST
 
 ---
 
@@ -48,7 +42,7 @@ Ultimately the Head of Technology has the final say on how teams with Digital Se
 
 All ONS code repositories in GitHub should be created under the umbrella of the ONSdigital organisation.
 
-- **Administration** - the administrators of the organisation are the **Technical Lead**s.
+- **Administration** - the administrators of the organisation are the  **Technical Lead or nominated Sr. team members**.
 
 - **Repository creation** - anyone in the ONSdigital organisation can create a repository.
 
@@ -56,17 +50,17 @@ All ONS code repositories in GitHub should be created under the umbrella of the 
 
 ### Organisation Membership
 
-Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead**s.
+Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead or nominated Sr. team members**.
 
-- **Administrators** - all **Technical Lead**s are administrators of ONSdigital.
+- **Administrators** - all  **Technical Lead or nominated Sr. team members** are administrators of ONSdigital.
 
-- **Team management** - each **Technical Lead** is responsible for managing their team(s).
+- **Team management** - each  **Technical Lead or nominated Sr. team members** is responsible for managing their team(s).
 
 - **Team organisation** - teams should be created aligning with the product teams at ONS.
 
 #### Managing movers/leavers/joiners
 
-If an individual leaves ONS then the **Technical Lead** should also remove them from the ONSdigital organisation.
+If an individual leaves ONS then the  **Technical Lead or nominated Sr. team members** should also remove them from the ONSdigital organisation.
 
 - **Audit** - GitHub audits joiners and leavers via the audit log.
 
@@ -76,7 +70,7 @@ All accounts should be easily identifiable to their owners.
 
 - **GitHub Profile** - all individuals should populate their GitHub account profile with their real forename and surname.
 
-- **Username** - must not be offensive or anything deemed inappropriate by the **Technical Lead**s.
+- **Username** - must not be offensive or anything deemed inappropriate by the  **Technical Lead or nominated Sr. team members**.
 
 - **Personal Accounts** - it is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference. However only one account per individual should be registered to the ONSdigital organisation.
 
