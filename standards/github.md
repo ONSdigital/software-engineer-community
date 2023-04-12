@@ -18,7 +18,7 @@ Ultimately the Head of Software Engineering Practices has the final say on how t
 
 ### Operational Responsibility
 
-- Day-to-day responsibility for managing the use of GitHub and defining and governing its use lies with the **Technical Lead or nominated Sr. team members**.
+- Day-to-day responsibility for managing the use of GitHub and defining and governing its use lies with the **Technical Lead or nominated Sr. team member**.
 
 - If the community cannot agree then the Head of Software Practices has the casting vote on any decision.
 
@@ -42,7 +42,7 @@ Ultimately the Head of Software Engineering Practices has the final say on how t
 
 All ONS code repositories in GitHub should be created under the umbrella of the ONSdigital organisation.
 
-- **Administration** - the administrators of the organisation are the  **Technical Lead or nominated Sr. team members**.
+- **Administration** - the administrators of the organisation are the  **Technical Lead or nominated Sr. team member**.
 
 - **Repository creation** - anyone in the ONSdigital organisation can create a repository.
 
@@ -50,17 +50,17 @@ All ONS code repositories in GitHub should be created under the umbrella of the 
 
 ### Organisation Membership
 
-Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead or nominated Sr. team members**.
+Membership of the ONSdigital organisation is administered and actively managed by the **Technical Lead or nominated Sr. team member**.
 
-- **Administrators** - all  **Technical Lead or nominated Sr. team members** are administrators of ONSdigital.
+- **Administrators** - all  **Technical Lead or nominated Sr. team member** are administrators of ONSdigital.
 
-- **Team management** - each  **Technical Lead or nominated Sr. team members** is responsible for managing their team(s).
+- **Team management** - each  **Technical Lead or nominated Sr. team member** is responsible for managing their team(s).
 
 - **Team organisation** - teams should be created aligning with the product teams at ONS.
 
 #### Managing movers/leavers/joiners
 
-If an individual leaves ONS then the  **Technical Lead or nominated Sr. team members** should also remove them from the ONSdigital organisation.
+If an individual leaves ONS then the  **Technical Lead or nominated Sr. team member** should also remove them from the ONSdigital organisation.
 
 - **Audit** - GitHub audits joiners and leavers via the audit log.
 
@@ -70,7 +70,7 @@ All accounts should be easily identifiable to their owners.
 
 - **GitHub Profile** - all individuals should populate their GitHub account profile with their real forename and surname.
 
-- **Username** - must not be offensive or anything deemed inappropriate by the  **Technical Lead or nominated Sr. team members**.
+- **Username** - must not be offensive or anything deemed inappropriate by the  **Technical Lead or nominated Sr. team member**.
 
 - **Personal Accounts** - it is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference. However only one account per individual should be registered to the ONSdigital organisation.
 
