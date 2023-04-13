@@ -90,7 +90,7 @@ All accounts should be easily identifiable to their owners.
 
 Repositories should be created a _public_ by default unless you have a specific need for them to be _internal_ or _private_, this is in line with [UK Govt guidline - Be open and use open source] (https://www.gov.uk/guidance/be-open-and-use-open-source). For more information please see [Assume everything is public](#assume-everything-is-public)). 
 
-~~*completed* Fahad to add link to the UK Govt Guidance on open source code ~~
+~~**completed** Fahad to add link to the UK Govt Guidance on open source code~~
   
 #### Collaborators
 
@@ -105,7 +105,7 @@ GitHub supports signed commits so other people can verify that your work comes f
 Digital publishing validate the GPG key used against a list of known keys (managed in a github repo) and refuse to build either unsigned commits or commits signed by a key we don't recognise.
 
 - Signed commits are encouraged but not mandated
-~~-  Fahad to confirm why this is only encouraged ot mandated, talked to Chris U and he confirm this due to lack of central key management system ~~
+>~~**completed**Fahad to confirm why this is only encouraged ot mandated, talked to Chris U and he confirm this due to lack of central key management system~~
 
 ### Webhooks into ONS
 
