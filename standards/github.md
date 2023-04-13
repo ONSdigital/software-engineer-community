@@ -105,7 +105,6 @@ GitHub supports signed commits so other people can verify that your work comes f
 Digital publishing validate the GPG key used against a list of known keys (managed in a github repo) and refuse to build either unsigned commits or commits signed by a key we don't recognise.
 
 - Signed commits are encouraged but not mandated
-- (Note for Fahad why it is encouraged only not mandated (check with community)).
 
 ### Webhooks into ONS
 
