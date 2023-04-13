@@ -67,7 +67,7 @@ Membership of the ONSdigital organisation is administered and actively managed b
 - **Audit** - GitHub audits joiners and leavers via the audit log.
 
 ### GitHub accounts
-[Jame Blake will share the content to be replace in the section below]
+> *Jame Blake* will share the content to be replace in the section below.
 All accounts should be easily identifiable to their owners.
 
 - **GitHub Profile** - all individuals should populate their GitHub account profile with their real forename and surname.
@@ -90,7 +90,7 @@ All accounts should be easily identifiable to their owners.
 
 Repositories should be created a _public_ by default unless you have a specific need for them to be _internal_ or _private_, this is in line with [UK Govt guidline - Be open and use open source] (https://www.gov.uk/guidance/be-open-and-use-open-source). For more information please see [Assume everything is public](#assume-everything-is-public)). 
 
-~~**completed** Fahad to add link to the UK Govt Guidance on open source code~~
+>~~**completed** Fahad to add link to the UK Govt Guidance on open source code~~
   
 #### Collaborators
 
@@ -105,7 +105,7 @@ GitHub supports signed commits so other people can verify that your work comes f
 Digital publishing validate the GPG key used against a list of known keys (managed in a github repo) and refuse to build either unsigned commits or commits signed by a key we don't recognise.
 
 - Signed commits are encouraged but not mandated
->~~**completed**Fahad to confirm why this is only encouraged ot mandated, talked to Chris U and he confirm this due to lack of central key management system~~
+>~~**completed** Fahad to confirm why this is only encouraged ot mandated, talked to Chris U and he confirm this due to lack of central key management system~~
 
 ### Webhooks into ONS
 
@@ -129,7 +129,7 @@ Currently we do not support changes from outside of members of the ONSdigital Gi
 
 - **The future** - we may choose to allow external contributors at a later date, but a policy for accepting changes will need to be developed and agreed.
 
-~~Fahad (need to check why this in place), since we dont have policy around how external contributors we need to define that policy first before allowing contribution from external contributors~~
+>~~**completed** Fahd need to check why this is in place, since we dont have policy around how external contributors we need to define that policy first before allowing contribution from external contributors~~
 
 ### Assume everything is public
 
