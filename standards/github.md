@@ -129,7 +129,7 @@ Currently we do not support changes from outside of members of the ONSdigital Gi
 
 - **The future** - we may choose to allow external contributors at a later date, but a policy for accepting changes will need to be developed and agreed.
 
->~~**completed** Fahd need to check why this is in place, since we dont have policy around how external contributors we need to define that policy first before allowing contribution from external contributors~~
+>~~**completed**Fahad need to check why this is in place, since we dont have policy around how external contributors we need to define that policy first before allowing contribution from external contributors~~
 
 ### Assume everything is public
 
