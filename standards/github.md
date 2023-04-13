@@ -119,7 +119,7 @@ Webhooks from GitHub to on-network build systems must be via the CA API Gateway
 
 - All repositories from the ONSdigital organisation should be whitelisted.
 
-   ~~-(Fahad - need to check what is CA API Gateway and where is the whitelisting is done), I have check with Chris U and he confirm CA API Gateway is in place ~~
+>~~**completed** Fahad - need to check what is CA API Gateway and where is the whitelisting is done), I have check with Chris U and he confirm CA API Gateway is in place~~
 
 ### External contributors
 
