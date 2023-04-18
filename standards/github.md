@@ -96,7 +96,7 @@ Repositories should be created a _public_ by default unless you have a specific 
 
 Only teams should be granted access to repositories. This makes it clear why the access is needed and helps to ensure people have correct permissions within team moves.
 
-If there is an explicit need for an individual to be granted access this should be agreed with a tech lead.
+If there is an explicit need for an individual to be granted access this should be agreed with **Technical Lead or nominated Sr. team member.**
 
 #### Signed commits
 
