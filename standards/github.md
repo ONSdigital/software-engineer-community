@@ -90,6 +90,8 @@ All accounts should be easily identifiable to their owners.
 
 Repositories should be created a _public_ by default unless you have a specific need for them to be _internal_ or _private_, this is in line with [UK Govt guidline - Be open and use open source] (https://www.gov.uk/guidance/be-open-and-use-open-source). For more information please see [Assume everything is public](#assume-everything-is-public)). 
 
+In case it is agreed that specific repository cannot be public, the readme section of that specific respository should clearly provide reasoning for that and the information about approving authority.
+
 >~~**completed** Fahad to add link to the UK Govt Guidance on open source code~~
   
 #### Collaborators
