@@ -1,5 +1,5 @@
 
-# Use of GitHub at ONS (Draft status) 
+# GitHub usage policy at ONS (Draft status) 
 
 This document defines the agreed GitHub standards in line with ONS Source Control policy (add a link).
 
