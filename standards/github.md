@@ -98,6 +98,8 @@ Only teams should be granted access to repositories. This makes it clear why the
 
 If there is an explicit need for an individual to be granted access this should be agreed with **Technical Lead or nominated Sr. team member.**
 
+**(Note for Fahad)** - How the outside collabrator is given the access)
+
 #### Signed commits
 
 GitHub supports signed commits so other people can verify that your work comes from a trusted source. If a commit or tag has a GPG or S/MIME signature that is cryptographically verifiable, GitHub marks the commit or tag as verified.
