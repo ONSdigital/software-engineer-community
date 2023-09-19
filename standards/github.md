@@ -30,7 +30,6 @@ Ultimately the Head of Software Engineering Practice has the final say on how te
 - [Organisation Membership](#organisation-membership)
   - [Managing movers/leavers/joiners](#managing-moversleaversjoiners)
 - [Github Accounts](#github-accounts)
-  - [Multi-factor authentication](#multi-factor-authentication)
 - [Signed Commits](#signed-commits)
 - [Webhooks into ONS](#webhooks-into-ons)
 - [Assume everything is public](#assume-everything-is-public)
