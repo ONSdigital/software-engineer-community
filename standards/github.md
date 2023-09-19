@@ -3,9 +3,6 @@
 
 This document defines the agreed GitHub standards in line with ONS Source Control policy (add a link).
 
-- [Responsibility for GitHub Usage at ONS](#responsibility-for-github-usage-at-ons)
-- [Policies](#policies)
-
 ## Responsibility for GitHub Usage at ONS
 
 ### Overall Responsibility
