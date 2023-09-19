@@ -92,7 +92,6 @@ Repositories should be created a _public_ by default unless you have a specific 
 
 In case it is agreed that specific repository cannot be public, the readme section of that specific respository should clearly provide reasoning for that and the information about approving authority.
 
->~~**completed** Fahad to add link to the UK Govt Guidance on open source code~~
   
 #### Collaborators
 
@@ -109,7 +108,6 @@ GitHub supports signed commits so other people can verify that your work comes f
 Digital publishing validate the GPG key used against a list of known keys (managed in a github repo) and refuse to build either unsigned commits or commits signed by a key we don't recognise.
 
 - Signed commits are encouraged but not mandated
->~~**completed** Fahad to confirm why this is only encouraged ot mandated, talked to Chris U and he confirm this due to lack of central key management system~~
 
 ### Webhooks into ONS
 
@@ -123,8 +121,6 @@ Webhooks from GitHub to on-network build systems must be via the CA API Gateway
 
 - All repositories from the ONSdigital organisation should be whitelisted.
 
->~~**completed** Fahad - need to check what is CA API Gateway and where is the whitelisting is done), I have check with Chris U and he confirm CA API Gateway is in place~~
-
 ### External contributors
 
 Currently we do not support changes from outside of members of the ONSdigital GitHub organisation.
@@ -133,7 +129,6 @@ Currently we do not support changes from outside of members of the ONSdigital Gi
 
 - **The future** - we may choose to allow external contributors at a later date, but a policy for accepting changes will need to be developed and agreed.
 
->~~**completed** Fahad need to check why this is in place, since we dont have policy around how external contributors we need to define that policy first before allowing contribution from external contributors~~
 
 ### Assume everything is public
 
