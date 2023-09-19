@@ -67,22 +67,12 @@ Membership of the ONSdigital organisation is administered and actively managed b
 - **Audit** - GitHub audits joiners and leavers via the audit log.
 
 ### GitHub accounts
-> *Jame Blake* will share the content to be replace in the section below.
-All accounts should be easily identifiable to their owners.
 
 - **GitHub Profile** - all individuals should populate their GitHub account profile with their real forename and surname.
 
-- **Username** - must not be offensive or anything deemed inappropriate by the **Technical Lead**s.
+- **Username** - must not be offensive or anything deemed inappropriate by the **Technical Lead or nominated Sr. team member**/ .
 
-- **Personal Accounts** - it is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference. However only one account per individual should be registered to the ONSdigital organisation.
-
-#### Multi-factor authentication
-
-- **Administrators must enable MFA** - a condition of being granted administration right on the organization is to have multi-factor authentication enabled. Therefore it follows that all **Technical Lead**s must enable MFA on their accounts.
-
-- **Members should enable MFA** -  it is strongly encouraged that all users with normal access have multi-factor authentication enabled on their accounts. Reasonable reasons for not having it enabled are required. However, any member who has admin access to any repository **must** have MFA enabled.
-
-- **Service Accounts don't need to enable MFA** - service accounts used by continuous integration solutions do not require multi-factor authentication. Service accounts should have the minimal permissions required to complete the required task (_principal of least required priviledge_)
+- **Personal Accounts** - it is acceptable for an individual to use their own GitHub account or an ONS dedicated GitHub account according to their personal preference. However only one personal account per individual should be registered to the ONSdigital organisation. However, where personal account is used the user should add ONS official email address as secondary email on the GitHub profile.
 
 ### Repository settings
 
@@ -99,7 +89,7 @@ Only teams should be granted access to repositories. This makes it clear why the
 
 If there is an explicit need for an individual to be granted access this should be agreed with **Technical Lead or nominated Sr. team member.**
 
-**(Note for Fahad)** - How the outside collabrator is given the access)
+**(Note for Fahad)** - How the outside collabrator is given the access)??
 
 #### Signed commits
 
