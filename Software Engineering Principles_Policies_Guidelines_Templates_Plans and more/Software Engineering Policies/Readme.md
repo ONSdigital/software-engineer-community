@@ -1,15 +1,9 @@
 <h1>Agreed Software Engineering Policies (Phase-1) </h1>
 
-In the first phase, TAG has finalised the following policies, along with supporting guidelines and other artefacts:
+__Software Engineering Policies:__ The software development policies focused on the WHAT aspect of software development; whereas implementation plans and guidelines focus on the HOW aspect. These policies provide specific practices and procedures for software engineering activities, aiming to ensure consistency in the development and maintenance of software products. This will also improve the ability to evidence compliance in this space. In the first phase, TAG has finalised the following policies, along with supporting guidelines and other artefacts:
 
-Policies _ Source Control Management Policy _ GitHub Usage Policy
+__Policies__
+- Source Control Management Policy
+- GitHub Usage Policy
 
-Guidelines
-
-GitHub Internal or Private repository usage Guidelines
-Implementation Plans, Templates and Automation
-
-Now & Future Implementation.
-Retrospective Implementation.
-Templated Repository.
-Future Initiatives: Currently TAG is finalising the Coding Policy & Technical Documentation Policy, we are aiming to release these policies along with guidance’s, templates and implementation plan in next few months, while we plan to work on additional Software Engineering Policies in the future, our current focus is on the implementation of the above agreed-upon policies first.
+__Future Initiatives:__ Currently TAG is finalising the Coding Policy & Technical Documentation Policy, we are aiming to release these policies along with guidance’s, templates and implementation plan in next few months, while we plan to work on additional Software Engineering Policies in the future, our current focus is on the implementation of the above agreed-upon policies first.
