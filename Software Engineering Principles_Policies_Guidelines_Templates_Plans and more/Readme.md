@@ -1,4 +1,4 @@
-# <h1> Preparing for Change: Software Engineering Principles and Policies Implementation (Phase-1)
+# <h1> Preparing for Change: Software Engineering Principles and Policies Implementation
 
 I am pleased to announce that the Technical Advisory Group (TAG), comprising members from the Software Engineering, DevSecOps, Testing, and Security communities, have finalised a set of Software Engineering Principles and Policies after weeks of collaborative effort. 
 
@@ -18,11 +18,12 @@ __Agreed Software Engineering Principles:__ The following principles have been e
 - Understandability
 - Performance Importance
 
-__Agreed Software Engineering Policies (Phase-1):__ In the first phase, TAG has finalised the following policies, along with supporting guidelines and other artefacts:
+__Agreed Software Engineering Policies:__ TAG has finalised the following policies, along with supporting guidelines and other artefacts:
 
 __Policies__
 _	Source Control Management Policy
 _	GitHub Usage Policy
+_	GitHub Copilot (AI Assisted Coding) Policy & Governance  
 
 __Guidelines__
 - GitHub Internal or Private repository usage Guidelines
