@@ -21,9 +21,9 @@ __Agreed Software Engineering Principles:__ The following principles have been e
 __Agreed Software Engineering Policies:__ TAG has finalised the following policies, along with supporting guidelines and other artefacts:
 
 __Policies__
-_	Source Control Management Policy
-_	GitHub Usage Policy
-_	GitHub Copilot (AI Assisted Coding) Policy & Governance  
+- Source Control Management Policy
+- GitHub Usage Policy
+- GitHub Copilot (AI Assisted Coding) Policy & Governance  
 
 __Guidelines__
 - GitHub Internal or Private repository usage Guidelines
